@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fidhal934
+- 👋 Hi, I’m @Fidhal 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning git
 - 📫 How to reach me,fidhalumer59@gmail.com
